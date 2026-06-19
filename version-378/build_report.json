@@ -1,0 +1,11 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_card_count": 2000,
+  "unique_assigned_movies": 2000,
+  "all_html_pages": 2016,
+  "all_html_has_baidu": true,
+  "player_pages_with_hls": 2000,
+  "zip_size_bytes": 11807933
+}
